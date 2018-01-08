@@ -1,0 +1,6 @@
+Data/Hora do incidente: 242-08-2017
+IP:172.30.8.51
+Usuário
+Exception: null
+ERRO  ----- STACKTRACE ABAIXO _------ GMS DEV ---------------------------------------------------------------
+com.br.GRSYS.AutoNomeia.GerenciadorGeral.GerenciadorGeral.main(GerenciadorGeral.java:337)
